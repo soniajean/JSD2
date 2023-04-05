@@ -74,7 +74,7 @@ for (let i = 0; i<animal.length; i++){
    console.log(vals[i])
 };
 
-console.log("\nCUSTOM OBJJECT PROTOTYPES")
+console.log("\nCUSTOM OBJECT PROTOTYPES")
 // Custom object prototypes. . . aka classes
 // 3(ish) ways because this is JS, 1 way is never enough
 
